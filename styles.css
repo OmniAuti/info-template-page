@@ -35,6 +35,10 @@ ul {
     height: 100%;
 }
 
+.main-section ul {
+    margin-left: 5em;
+}
+
 li {
     height: 12%;
     width: 25vw;
@@ -116,11 +120,13 @@ code {
 
     .main-section header {
         margin-bottom: 1em;
-       height: 15vh;
+        height: 15vh;
     }
 
-    .main-section h2 {
-        padding:
+   
+
+    header h2 {
+        font-size: 1em;
     }
 
     a {
