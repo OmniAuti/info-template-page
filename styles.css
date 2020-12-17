@@ -116,7 +116,11 @@ code {
 
     .main-section header {
         margin-bottom: 1em;
-      
+       height: 15vh;
+    }
+
+    .main-section h2 {
+        padding:
     }
 
     a {
