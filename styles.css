@@ -147,10 +147,13 @@ code {
 
     a {
         font-size: .5em;
+        width: 24.75vw;
+        
     }
 
     li {
-        height: 11%;
+        height: 12%;
+    
     }
 
     .main-section {
