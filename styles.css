@@ -62,6 +62,8 @@ li {
 
 hr {
     height: 2px;
+    margin: 0;
+    padding: 0;
 }
 
 a {
@@ -139,8 +141,6 @@ code {
         height: 15vh;
     }
 
-   
-
     header h2 {
         font-size: 1em;
     }
@@ -164,5 +164,10 @@ code {
     #navbar {
         width: 25vw;
     }
+}
 
+@media (max-width: 375px) {
+    header h1 {
+        font-size: 1.15em;
+    }
 }
