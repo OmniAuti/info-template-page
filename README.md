@@ -2,4 +2,4 @@
 Informational section template
 
 
-https://autiomni.github.io/info-template-page/
+https://omniauti.github.io/info-template-page/
